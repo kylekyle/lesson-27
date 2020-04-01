@@ -1,4 +1,4 @@
-# Lesson 27: Inpspection
+# Lesson 27: Inspection
 
 1. Download the the accompanying Jupyter Notebook to your computer. 
 2. [Open the notebook](https://colab.research.google.com/github/westpoint-neural-networks/lesson-27/blob/master/inspection.ipynb) in Google Colab. When you're done, download the notebook and upload it to your private repo. 
